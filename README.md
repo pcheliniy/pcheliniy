@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hey there! I'm Den. </h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**pcheliniy/pcheliniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:cloud: I'm devops engineer and cyber security enthusiast. 
 
-Here are some ideas to get you started:
+:notes: I previously worked for different companies and projects connected with an audio and video streaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:octocat: I'm enjoy working with modern technologies like an k8s ecosystem.
+
+:new_moon_with_face: Always open minded to something new and every day I regret about my past stubbornness.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; K8s | Terraform | Ansible
+- 🌐 &nbsp; Python | bash 
+- 🔧 &nbsp; Visual Studio code | Git
+
