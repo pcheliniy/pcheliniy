@@ -14,3 +14,5 @@
 - 🌐 &nbsp; Python | bash 
 - 🔧 &nbsp; Visual Studio code | Git
 
+
+:suspect: &nbsp; [LinkedIn](https://www.linkedin.com/in/denis-ivanov-515aa339/)
